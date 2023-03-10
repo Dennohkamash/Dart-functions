@@ -27,19 +27,17 @@
 //   print("total is:  $call");
 //   print("-------------------------------");
 // }
+// import 'dart:io';
+// void main() {
+//   String? User() {
+//     print("Enter your name: ");
+//     String? name = stdin.readLineSync()!;
+//     print("Enter your age: ");
+//     int age = int.parse(stdin.readLineSync()!);
+//     print("Enter your country: ");
+//     String? country = stdin.readLineSync()!;
+//     return ("I am ${name} aged ${age} from ${country}");
+//   }
 
-import 'dart:io';
-
-void main() {
-  String? User() {
-    print("Enter your name: ");
-    String? name = stdin.readLineSync()!;
-    print("Enter your age: ");
-    int age = int.parse(stdin.readLineSync()!);
-    print("Enter your country: ");
-    String? country = stdin.readLineSync()!;
-    return ("I am ${name} aged ${age} from ${country}");
-  }
-
-  print(User());
-}
+//   print(User());
+// }
