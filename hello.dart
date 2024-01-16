@@ -12,7 +12,7 @@
 //     return result;
 //   }
 
-// // We are calling a function and storing a result in variable c
+// // // We are calling a function and storing a result in variable c
 //   var c = sum(10, 5);
 //   print("The sum of two numbers is: ${c}");
 // }

@@ -40,3 +40,26 @@
 //   }
 //   print(User());
 // }
+
+// Write a function called stringLength that takes an argument of type
+// String and returns the length of that string.
+// void main(List<String> args) {
+//   stringlength() {
+//     // List name = ['abdul', 'dennis'];
+//     String name = "wekesa";
+//     return name.length;
+//   }
+
+//   print(stringlength());
+// }
+// Write a function called getFirstElement that takes a list as an
+// argument and returns the first element of that list.
+
+// void main() {
+//   getFirstElement() {
+//     List words = ["Salathiel", "Chimalo", "Dennis"];
+//     return words[1];
+//   }
+
+//   print(getFirstElement());
+// }
